@@ -47,14 +47,14 @@ My career in sales and solutions architecture has provided me with a strong foun
   - A resource for internal sales teams to quickly create client proposals and quotes offering full comparisons and analysis.
   - Python, Dash, Pandas, Google Docs API
   - [Code Repository](https://github.com/jalexspringer/ipcp)
-- **[Docker Image Update Review](https://github.com/jalexspringer/image-updates)
+- **[Docker Image Update Review](https://github.com/jalexspringer/image-updates):**
   - Command line tool to create visualizations and record update histories for docker hub images. Uses anchore navigator for update data.
   - Docker, Anchore, Bash, Python
-- **[Deepline Project Website](https://github.com/jalexspringer/deepline)
+- **[Deepline Project Website](https://github.com/jalexspringer/deepline):**
   - Hexo static site hosted on Netlify: [https://www.deeplineproject.com](https://www.deeplineproject.com)
   - Maps and GPS tracking APIs
   - General paragliding and travel fun!
-- **[ZoomInfo and Salesforce API Integration](https://github.com/jalexspringer/zoominfo_api)
+- **[ZoomInfo and Salesforce API Integration](https://github.com/jalexspringer/zoominfo_api):**
   - A simple interface for the ZoomInfo Partner API, with an accompanying implementation of simple-salesforce.
 
 ### Course Projects
