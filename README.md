@@ -56,6 +56,14 @@ My career in sales and solutions architecture has provided me with a strong foun
   - General paragliding and travel fun!
 - **[ZoomInfo and Salesforce API Integration](https://github.com/jalexspringer/zoominfo_api):**
   - A simple interface for the ZoomInfo Partner API, with an accompanying implementation of simple-salesforce.
+- **[Custom Deployment Language - impact.com](https://github.com/jalexspringer/impact-grow):**
+  - Tool to take a text file with account configuration declarations and create, adjust, or destroy an Impact account automatically and to keep account settings as expected.
+  - Custom DSL (Terraform-like)
+  - Python, Docker
+- **[Ephemeral Work Server Deployment](https://github.com/jalexspringer/provision_work_server):**
+  - Configuration/Infrastructure as code
+  - I change OSes, machines, and desks a lot. This ensured I always had my tools.
+  - Since replaced with Github codespaces and VSCode dev containers
 
 ### Course Projects
 - **[AWS, Terraform and Vault - Presentation](https://github.com/jalexspringer/wp_vault_terraform/tree/master):** Walking through creating a highly available Wordpress blog using AWS and Terraform with Hashicorp Vault for security.
