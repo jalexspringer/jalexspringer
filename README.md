@@ -35,6 +35,8 @@ My career in sales and solutions architecture has provided me with a strong foun
 - **[NarrativAI](https://narrativai.com/executive-software/):**
   - AI-driven business data analysis.
   - Streamlit, GraphQL, Python, Docker, OpenAI API (GPT-4)
+  - [Backend Repository](https://github.com/alex-narrativai/narrativai-back) - Create demo transcripts, process incoming transcripts for summaries using GPT-4
+  - [Webapp Repository](https://github.com/alex-narrativai/narrativai-webapp) - Streamlit interface for exploring the historical summaries
 - **[Forensiq Fraud Reporter](https://github.com/jalexspringer/fqreport):**
   - Analytics and reporting generator for ad fraud scoring tools. Creates formatted PDF reports containing scoring results and highlighting potentially low value traffic sources.
   - Python, Forensiq, Docker
