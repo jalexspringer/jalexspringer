@@ -28,21 +28,43 @@ My career in sales and solutions architecture has provided me with a strong foun
 
 ---
 
-#### Projects
+## Projects
 
-- **[NarrativAI](https://narrativai.com/executive-software/):** AI-driven business data analysis.
+### Original Personal/Work Projects
+
+- **[NarrativAI](https://narrativai.com/executive-software/):**
+  - AI-driven business data analysis.
   - Streamlit, GraphQL, Python, Docker, OpenAI API (GPT-4)
-- **Forensiq Fraud Reporter:** Analytics and reporting generator for ad fraud scoring tools. Creates formatted PDF reports containing scoring results and highlighting potentially low value traffic sources.
+- **[Forensiq Fraud Reporter](https://github.com/jalexspringer/fqreport):**
+  - Analytics and reporting generator for ad fraud scoring tools. Creates formatted PDF reports containing scoring results and highlighting potentially low value traffic sources.
   - Python, Forensiq, Docker
-- **Affiliate Data Importer:** ETL From Affiliate Networks
-  - Python, Docker
-- **[SaaS Pricing Calculator](https://ipcp.herokuapp.com/email=aspringer@impact.com&client=Hello):** A resource for internal sales teams to quickly create client proposals and quotes offering full comparisons and analysis.
+- **Affiliate Data Importer:**
+  - ETL From Affiliate Networks
+  - [Airflow Pipeline and Customer Operators](https://github.com/jalexspringer/unaffi)
+  - [Python Package and Tools - netimpact](https://github.com/jalexspringer/netimpact) - CLI and underlying functions
+  - Python, Docker, Airflow
+- **[SaaS Pricing Calculator](https://ipcp.herokuapp.com/email=aspringer@impact.com&client=Hello):**
+  - A resource for internal sales teams to quickly create client proposals and quotes offering full comparisons and analysis.
   - Python, Dash, Pandas, Google Docs API
+  - [Code Repository](https://github.com/jalexspringer/ipcp)
+- **[Docker Image Update Review](https://github.com/jalexspringer/image-updates)
+  - Command line tool to create visualizations and record update histories for docker hub images. Uses anchore navigator for update data.
+  - Docker, Anchore, Bash, Python
+- **[Deepline Project Website](https://github.com/jalexspringer/deepline)
+  - Hexo static site hosted on Netlify: [https://www.deeplineproject.com](https://www.deeplineproject.com)
+  - Maps and GPS tracking APIs
+  - General paragliding and travel fun!
+- **[ZoomInfo and Salesforce API Integration](https://github.com/jalexspringer/zoominfo_api)
+  - A simple interface for the ZoomInfo Partner API, with an accompanying implementation of simple-salesforce.
 
+### Course Projects
+- **[AWS, Terraform and Vault - Presentation](https://github.com/jalexspringer/wp_vault_terraform/tree/master):** Walking through creating a highly available Wordpress blog using AWS and Terraform with Hashicorp Vault for security.
+- **[Spark S3 ETL](https://github.com/jalexspringer/sparkify-s3)** - Springboard data engineering project
+- **[Data Analytics Projects](https://github.com/jalexspringer/data_projects) - Springboard data analytics projects
 
 ---
 
-#### Narrativai - Executive Insights
+### Narrativai - Executive Insights
 
 - **The Challenge:** Addressing the limitations of traditional CRMs and BI tools in providing real-time, actionable insights and handling qualitative data.
 
