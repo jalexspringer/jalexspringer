@@ -12,6 +12,7 @@ My career in sales and solutions architecture has provided me with a strong foun
 ---
 
 #### Bridging Business and Technology
+
 - **Wide Technology Skillsets:** I work with Python, JS, Docker, Kafka, AWS/GCP/Azure, Airflow, SQL, GraphQL and I'm currently learning C++ to better understand how to get the highest performance for large scale data focussed operations.
 
 - **AI & LLMs Expertise:** My projects showcases my ability to integrate AI into practical business solutions. It's an example of how AI can revolutionize data accessibility and understanding in businesses.
@@ -34,7 +35,7 @@ My career in sales and solutions architecture has provided me with a strong foun
 
 - **[NarrativAI](https://narrativai.com/executive-software/):**
   - AI-driven business data analysis.
-  - Streamlit, GraphQL, Python, Docker, OpenAI API (GPT-4)
+  - Streamlit, GraphQL, Python, Docker, OpenAI API (GPT-4), Azure
   - [Backend Repository](https://github.com/alex-narrativai/narrativai-back) - Create demo transcripts, process incoming transcripts for summaries using GPT-4
   - [Webapp Repository](https://github.com/alex-narrativai/narrativai-webapp) - Streamlit interface for exploring the historical summaries
 - **[Forensiq Fraud Reporter](https://github.com/jalexspringer/fqreport):**
