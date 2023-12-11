@@ -1,5 +1,5 @@
 ## Alex Springer
-### Full Stack Developer - Solutions Architect - AI Innovator
+### Full Stack Developer - Solutions Architect
 
 ---
 
