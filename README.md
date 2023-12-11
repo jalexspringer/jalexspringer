@@ -72,7 +72,3 @@ I am eager to contribute to a team where my blend of client insight, technical s
 #### Contact Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/jalexspringer]
-
----
-
-This version balances your sales and technical experience, clearly articulating how your background in client-facing roles is a valuable asset in your transition to full stack development, particularly with a focus on AI and LLMs.
