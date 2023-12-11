@@ -30,13 +30,13 @@ My career in sales and solutions architecture has provided me with a strong foun
 
 #### Projects
 
-- **Narrativai:** AI-driven business data analysis. [[https://narrativai.com/](https://narrativai.com/executive-software/)]
+- **[NarrativAI](https://narrativai.com/executive-software/):** AI-driven business data analysis.
   - Streamlit, GraphQL, Python, Docker, OpenAI API (GPT-4)
 - **Forensiq Fraud Reporter:** Analytics and reporting generator for ad fraud scoring tools. Creates formatted PDF reports containing scoring results and highlighting potentially low value traffic sources.
   - Python, Forensiq, Docker
 - **Affiliate Data Importer:** ETL From Affiliate Networks
   - Python, Docker
-- **[SaaS Pricing Calculator]([url](https://ipcp.herokuapp.com/email=aspringer@impact.com&client=Hello)):** A resource for internal sales teams to quickly create client proposals and quotes offering full comparisons and analysis.
+- **[SaaS Pricing Calculator](https://ipcp.herokuapp.com/email=aspringer@impact.com&client=Hello):** A resource for internal sales teams to quickly create client proposals and quotes offering full comparisons and analysis.
   - Python, Dash, Pandas, Google Docs API
 
 
