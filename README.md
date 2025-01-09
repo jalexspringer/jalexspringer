@@ -1,13 +1,30 @@
 ## Alex Springer
-### Full Stack Developer - Solutions Architect
 
 ---
 
 #### About Me
 
-Hello! I'm Alex, a seasoned sales executive and solutions architect transitioning into full stack development with particular interest in data engineering, AI, and systems engineering. With over 10 years of experience in client-facing roles in the tech industry, I've developed a unique understanding of customer needs and technical problem-solving. This experience has been invaluable in my journey into software development, where I blend my skills in Python, JavaScript, C++, and AI to create innovative solutions.
+**Commercial Leadership + Technical Expertise**
+  - Led 50-person commercial teams across 5 countries
+  - Personally developed AI products and enterprise solutions
+  - Regular movement between C-suite pitches and technical implementation
 
-My career in sales and solutions architecture has provided me with a strong foundation for understanding user requirements and translating them into effective technical solutions. I'm now seeking opportunities in full stack development where I can leverage this background, along with my technical skills and passion for AI, to build impactful and user-centric software.
+**Proven Product Impact at impact.com**
+  - Drove platform growth to process 20% of global ecommerce
+  - Built enterprise sales to $25M+
+  - Developed AI tools that doubled marketplace activity
+  - Led integration of three acquired companies
+
+**Recent AI Product Leadership**
+  - Architected multiple enterprise AI products from concept to deployment
+  - Led both technical development and commercial strategy
+  - Built tools integrating generative AI and traditional ML approaches
+
+**Unique Value Proposition**
+  - Deep understanding of both customer needs and technical feasibility
+  - Proven ability to identify opportunities and deliver solutions at scale
+  - Rare combination of commercial insight and hands-on technical capability
+  - Experience across company stages from Series A to D+
 
 ---
 
@@ -94,11 +111,7 @@ My career in sales and solutions architecture has provided me with a strong foun
 - System Administration Certification
 - AWS Solutions Architect - Associate
 
----
 
-#### Future Goals
-
-I am eager to contribute to a team where my blend of client insight, technical skills, and AI expertise can be utilized to the fullest. I am looking for full stack development roles where I can continue to grow, innovate, and drive meaningful change.
 
 ---
 
