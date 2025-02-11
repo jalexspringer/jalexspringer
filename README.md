@@ -5,7 +5,7 @@
 
 ### Building Complex Systems at Scale
 
-I'm a builder who thrives on creating robust, data-driven systems. After leading commercial teams while maintaining hands-on development, I'm now fully focused on systems architecture and platform engineering. My experience spans from designing high-throughput data pipelines to building AI-powered analytics platforms, always with an emphasis on performance and maintainability.
+I'm a builder who thrives on designing data oriented systems. After leading commercial teams while maintaining hands-on development, I'm now fully focused on systems architecture and platform engineering. My experience spans from designing high-throughput data pipelines to building AI-powered analytics platforms, always with an emphasis on performance and maintainability.
 
 ---
 
