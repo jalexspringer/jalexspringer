@@ -12,7 +12,7 @@ I'm a builder who thrives on creating robust, data-driven systems. After leading
 ### Technical Foundation
 
 **Systems & Performance**
-- Systems programming with Zig
+- Systems programming
 - High-performance data processing
 - Distributed systems design
 - Event-driven architectures
