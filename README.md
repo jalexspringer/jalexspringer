@@ -1,120 +1,95 @@
-## Alex Springer
+# Alex Springer
+## Systems Architect & Data Platform Engineer
 
 ---
 
-#### About Me
+### Building Complex Systems at Scale
 
-**Commercial Leadership + Technical Expertise**
-  - Led 50-person commercial teams across 5 countries
-  - Personally developed AI products and enterprise solutions
-  - Regular movement between C-suite pitches and technical implementation
-
-**Proven Product Impact at impact.com**
-  - Drove platform growth to process 20% of global ecommerce
-  - Built enterprise sales to $25M+
-  - Developed AI tools that doubled marketplace activity
-  - Led integration of three acquired companies
-
-**Recent AI Product Leadership**
-  - Architected multiple enterprise AI products from concept to deployment
-  - Led both technical development and commercial strategy
-  - Built tools integrating generative AI and traditional ML approaches
-
-**Unique Value Proposition**
-  - Deep understanding of both customer needs and technical feasibility
-  - Proven ability to identify opportunities and deliver solutions at scale
-  - Rare combination of commercial insight and hands-on technical capability
-  - Experience across company stages from Series A to D+
+I'm a builder who thrives on creating robust, data-driven systems. After leading commercial teams while maintaining hands-on development, I'm now fully focused on systems architecture and platform engineering. My experience spans from designing high-throughput data pipelines to building AI-powered analytics platforms, always with an emphasis on performance and maintainability.
 
 ---
 
-#### Bridging Business and Technology
+### Technical Foundation
 
-- **Wide Technology Skillsets:** I work with Python, JS, Docker, Kafka, AWS/GCP/Azure, Airflow, SQL, GraphQL and I'm currently learning C++ to better understand how to get the highest performance for large scale data focussed operations.
+**Systems & Performance**
+- Systems programming with Zig
+- High-performance data processing
+- Distributed systems design
+- Event-driven architectures
 
-- **AI & LLMs Expertise:** My projects showcases my ability to integrate AI into practical business solutions. It's an example of how AI can revolutionize data accessibility and understanding in businesses.
+**Data & AI Infrastructure**
+- ETL pipeline design
+- BERTopic model deployment
+- LLM system integration
+- Real-time analytics platforms
 
-- **Insights from Client-Facing Roles:** The experience gained from client-facing roles enriches my approach to software development, ensuring that the end products are not only technically sound but also aligned with user needs and business goals.
-
----
-
-#### My Journey to Full Stack Development
-
-- **Leveraging Sales and Architect Experience:** My background has instilled a deep understanding of translating business requirements into technical solutions, a skill crucial for any developer.
-
-- **Technical Proficiency:** My hands-on experience with modern programming languages and AI technologies equips me to tackle diverse development challenges.
-
----
-
-## Projects
-
-### Original Personal/Work Projects
-
-- **[NarrativAI](https://narrativai.com/executive-software/):**
-  - AI-driven business data analysis.
-  - Streamlit, GraphQL, Python, Docker, OpenAI API (GPT-4), Azure
-  - [Backend Repository](https://github.com/alex-narrativai/narrativai-back) - Create demo transcripts, process incoming transcripts for summaries using GPT-4
-  - [Webapp Repository](https://github.com/alex-narrativai/narrativai-webapp) - Streamlit interface for exploring the historical summaries
-- **[Forensiq Fraud Reporter](https://github.com/jalexspringer/fqreport):**
-  - Analytics and reporting generator for ad fraud scoring tools. Creates formatted PDF reports containing scoring results and highlighting potentially low value traffic sources.
-  - Python, Forensiq, Docker
-- **Affiliate Data Importer:**
-  - ETL From Affiliate Networks
-  - [Airflow Pipeline and Customer Operators](https://github.com/jalexspringer/unaffi)
-  - [Python Package and Tools - netimpact](https://github.com/jalexspringer/netimpact) - CLI and underlying functions
-  - Python, Docker, Airflow
-- **[SaaS Pricing Calculator](https://ipcp.herokuapp.com/email=aspringer@impact.com&client=Hello):**
-  - A resource for internal sales teams to quickly create client proposals and quotes offering full comparisons and analysis.
-  - Python, Dash, Pandas, Google Docs API
-  - [Code Repository](https://github.com/jalexspringer/ipcp)
-- **[Docker Image Update Review](https://github.com/jalexspringer/image-updates):**
-  - Command line tool to create visualizations and record update histories for docker hub images. Uses anchore navigator for update data.
-  - Docker, Anchore, Bash, Python
-- **[Deepline Project Website](https://github.com/jalexspringer/deepline):**
-  - Hexo static site hosted on Netlify: [https://www.deeplineproject.com](https://www.deeplineproject.com)
-  - Maps and GPS tracking APIs
-  - General paragliding and travel fun!
-- **[ZoomInfo and Salesforce API Integration](https://github.com/jalexspringer/zoominfo_api):**
-  - A simple interface for the ZoomInfo Partner API, with an accompanying implementation of simple-salesforce.
-- **[Custom Deployment Language - impact.com](https://github.com/jalexspringer/impact-grow):**
-  - Tool to take a text file with account configuration declarations and create, adjust, or destroy an Impact account automatically and to keep account settings as expected.
-  - Custom DSL (Terraform-like)
-  - Python, Docker
-- **[Ephemeral Work Server Deployment](https://github.com/jalexspringer/provision_work_server):**
-  - Configuration/Infrastructure as code
-  - I change OSes, machines, and desks a lot. This ensured I always had my tools.
-  - Since replaced with Github codespaces and VSCode dev containers
-
-### Course Projects
-- **[AWS, Terraform and Vault - Presentation](https://github.com/jalexspringer/wp_vault_terraform/tree/master):** Walking through creating a highly available Wordpress blog using AWS and Terraform with Hashicorp Vault for security.
-- **[Spark S3 ETL](https://github.com/jalexspringer/sparkify-s3)** - Springboard data engineering project
-- **[Data Analytics Projects](https://github.com/jalexspringer/data_projects) - Springboard data analytics projects
+**Core Technologies**
+- Python, Zig, Golang
+- Docker, Kafka, Airflow
+- AWS, GCP, Azure
+- SQL, Neo4j, BigQuery
 
 ---
 
-### Narrativai - Executive Insights
+### Key Projects
 
-- **The Challenge:** Addressing the limitations of traditional CRMs and BI tools in providing real-time, actionable insights and handling qualitative data.
+**Cross-Network Data Platform**
+- Built ETL pipeline processing 20% of global ecommerce transactions
+- Designed data lake architecture for multi-source affiliate data
+- Implemented real-time validation and cost calculation systems
+- Tech: Python, Airflow, S3, Athena, Docker [^1][^2]
 
-- **The Solution:** *Narrativai* employs AI, LLMs, and advanced data visualization to transform complex data sets into meaningful narratives, enhancing decision-making and communication.
+**Real-Time Analytics Dashboard**
+- Created high-performance product trend analysis system
+- Built with modern async patterns and efficient caching
+- Comprehensive monitoring and health check systems
+- Tech: FastAPI, HTMX, Prometheus, Docker [^3]
 
-- **MVP Features:**
-  - Conversational AI Interface
-  - Unified Data Analysis
-  - Automated Reporting
-  - Cross-Departmental Communication Tools
+**AI Content Generation Platform**
+- Developed scalable content generation system
+- Integrated multiple LLM models with custom prompting
+- Built cross-language support and template systems
+- Tech: Python, Claude API, Streamlit [^4]
+- Live demo:: [https://commercecontentgenerator.streamlit.app/](https://commercecontentgenerator.streamlit.app/)
 
 ---
 
-#### Certifications
+### Engineering Focus
 
-- System Administration Certification
-- AWS Solutions Architect - Associate
+**Performance & Scale**
+- High-throughput data processing systems
+- Memory-efficient implementations in Zig
+- Distributed system design patterns
+- Cache optimization and data structure design
 
+**Architecture & Design**
+- Event-driven microservices
+- Data pipeline architecture
+- System integration patterns
+- API design and documentation
 
+**AI & ML Systems**
+- LLM integration architecture
+- BERTopic model deployment
+- Real-time inference systems
+- ML pipeline optimization
 
 ---
 
-#### Contact Me
+### Professional Development
 
-- **LinkedIn:** [https://www.linkedin.com/in/jalexspringer]
+- AWS Certified Solutions Architect
+- Linux Foundation - System Administration Certification
+
+---
+
+### Current Focus
+- High-performance computing with Zig
+- Distributed systems architecture
+- Event-driven system design
+- Large-scale ML deployment patterns
+
+[^1]: [netimpact GitHub Repo](https://github.com/jalexspringer/netimpact#:~:text=Full%20document,more%20information.)
+[^2]: [unaffi GitHub Repo](https://github.com/jalexspringer/unaffi#:~:text=Full%20document,more%20information.)
+[^3]: [product_trend_ticker GitHub Repo](https://github.com/jalexspringer/product_trend_ticker#:~:text=Full%20document,more%20information.)
+[^4]: [CommerceContentGenerator GitHub Repo](https://github.com/jalexspringer/CommerceContentGenerator#:~:text=Full%20document,more%20information.)
